@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Time Zone Converter 🌍
 
 A lightweight Firefox browser extension that lets you compare world clocks and convert time between different time zones with ease.
@@ -136,4 +136,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
->>>>>>> 86b35c996609cddbf6df58b4b316342b73e67dd3
